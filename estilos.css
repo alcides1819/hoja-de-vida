@@ -35,4 +35,5 @@ img{
 }
 .experiencia{
     display: flex;
+    justify-content: left;
 }
