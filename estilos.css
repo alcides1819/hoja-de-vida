@@ -38,4 +38,9 @@ button{
     color:white;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+}
+button:hover{
+    background-color: hsl(212, 96%, 19%);
 }
