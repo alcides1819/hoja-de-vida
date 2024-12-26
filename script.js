@@ -31,3 +31,27 @@ function cisco(){
 function seminario(){
     location.href="seminario.jpg"
 }
+function amtur(){
+    location.href="amtur.jpg"
+}
+function olimpica(){
+    location.href="olimpica.jpg"
+}
+function buerauveritas(){
+    location.href="bureauveritas.jpg"
+}
+function cencosud(){
+    location.href="cencosud.jpg"
+}
+function comfaguajira(){
+    location.href="comfaguajira.jpg"
+}
+function tempocolba1(){
+    location.href="tempocolba1.jpg"
+}
+function tempocolba2(){
+    location.href="tempocolba2.jpg"
+}
+function cerrejon(){
+    location.href="cerrejon.jpg"
+}
