@@ -37,7 +37,7 @@ function amtur(){
 function olimpica(){
     location.href="olimpica.jpg"
 }
-function buerauveritas(){
+function bureauveritas(){
     location.href="bureauveritas.jpg"
 }
 function cencosud(){
