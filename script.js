@@ -28,6 +28,9 @@ function mantenimientocomputo(){
 function cisco(){
     location.href="cisco.jpg"
 }
+function programacion(){
+    location.href="programacion.jpg"
+}
 function seminario(){
     location.href="seminario.jpg"
 }
