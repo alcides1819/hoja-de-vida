@@ -58,3 +58,6 @@ function tempocolba2(){
 function cerrejon(){
     location.href="cerrejon.jpg"
 }
+function IA(){
+    location.href="IA.jpg"
+}
